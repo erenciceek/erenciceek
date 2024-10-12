@@ -1,1 +1,1 @@
-I'm Eren. I was born on November 23, 2002. I am a third year computer engineering student at Dokuz Eylul University. I am actively exploring areas of interest within this field and striving to enhance my skills.
+I'm Eren, a fourth-year computer engineering student at Dokuz Eylul University. I am actively exploring various areas within this field and continuously striving to enhance my skills through hands-on projects and learning experiences.
